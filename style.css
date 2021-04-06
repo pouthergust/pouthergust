@@ -113,23 +113,19 @@ label span{
     margin-left: 20px;
     min-width: 300px;
 }
-a {
-    color: var(--corTextoPrimaria);
-}
+a { color: var(--corTextoPrimaria); }
+
 strong {
     font-weight: 600;
     display:inline-block;
 }
-body {
-    font-family: 'Open Sans', sans-serif;
-}
+
+body { font-family: 'Open Sans', sans-serif; }
 
 /* CABEÇALHO  */
 header {
     padding: 30px 30px 0;
     color: var( --corTextoSecundario);
-
-
 }
 header .container{
     position:relative;
@@ -141,9 +137,8 @@ header .linha {
     align-items: center;
 }
 header .col {}
-header .col-esquerda {
-    flex-basis: 30%;
-}
+
+header .col-esquerda { flex-basis: 30%; }
 header .col-direito {
     flex-basis: 70%;
     max-width: 100%;
@@ -154,25 +149,16 @@ header .col img {
     border-radius: 100%;
     
 }
-header .col h1 {
-    font-size: 1.5rem;
-}
+header .col h1 { font-size: 1.5rem; }
 header .col p {
     font-size: 1rem;
     color: var( --corTextoPrimaria);
 }
-header .col ul {
-    margin: 16px 0 0;
-}
-header .col ul li {
-    margin: 0 0  12px;
-}
-header .col ul li a {
-    color: var(--corTextoSecundario);
-}
-header .col section ul li h3 {
-    color: var(--corTextoSecundario);
-}
+
+header .col ul { margin: 16px 0 0; }
+header .col ul li { margin: 0 0  12px; }
+header .col ul li a { color: var(--corTextoSecundario); }
+header .col section ul li h3 { color: var(--corTextoSecundario); }
 
 /* MAIN */
 main {}
@@ -215,10 +201,7 @@ main .col section .bot-l{
     border-bottom-color: var(--corTextoPrimaria) ;
     border-left-color: var(--corTextoPrimaria);
 }
-main .col section ul li{
-
-}
-
+main .col section ul {}
 main .col p {
     font-size: 1rem;
     color: var( --corTextoPrimaria);
@@ -239,28 +222,22 @@ footer div.container{
     border-radius:  0px 0px 15px 15px;
     
 }
-footer .linha{
-    display: inline-flex;
-}
-footer nav {
-    display: inline-flex;
-}
+footer .linha{ display: inline-flex; }
+footer nav { display: inline-flex; }
+
 footer nav ul{}
 footer nav ul li{}
+
 footer nav ul li p{ font-size: 10px; }
 footer nav ul li p span{ font-size: large; }
 footer nav{}
 
 @media only screen and (min-width: 768px) {
-    .container {
-        max-width: 925px;
-    }
+    .container { max-width: 925px; }
     .linha {
         display: flex;
         align-items:flex-start;
         justify-content: space-between;
     }
-    header {
-        background-color: var( --corBackgroundPrincipal);
-    }
+    header { background-color: var( --corBackgroundPrincipal); }
 }
