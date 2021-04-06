@@ -245,8 +245,8 @@ footer nav {
 }
 footer nav ul{}
 footer nav ul li{}
-footer nav ul li p{ font-size: 10px;
-}
+footer nav ul li p{ font-size: 10px; }
+footer nav ul li p span{ font-size: large; }
 footer nav{}
 
 @media only screen and (min-width: 768px) {
