@@ -137,6 +137,7 @@ header .container{
 }
 header .linha {
     display:flex;
+    flex-wrap: wrap;
     align-items: center;
 }
 header .col {}
@@ -145,6 +146,7 @@ header .col-esquerda {
 }
 header .col-direito {
     flex-basis: 70%;
+    max-width: 100%;
 }
 header .col figure {}
 header .col img {
