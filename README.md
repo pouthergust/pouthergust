@@ -1,7 +1,7 @@
 # Hello World! I'm Gabriel 😄🖖
 and this is my knowledge and curiosities about development 
 
- <a href="pouthergust.github.io/profile/"> CLICK ME TO SEE THE PROJECT </a>
+ <a href="https://pouthergust.github.io/pouthergust/"> CLICK ME TO SEE THE PROJECT </a>
 
 ## What's this?
 
