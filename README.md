@@ -13,6 +13,8 @@ This is a project that I was created in a online class to explore the HTML and C
 ## WhoAmI?
 
 I am a Graphic Designer who is eager to learn more about programming 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true)
+
 
 ## Technologies
 
