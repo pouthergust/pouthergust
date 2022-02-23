@@ -9,9 +9,9 @@
 
 /* variaveis (:root - pseudo seletor */
 :root {
-    --corBackgroundPrincipal: aqua;
+    --corBackgroundPrincipal: #d8d8d8;
     --corBackgroundSec: white;
-    --corBackgroundFooter: rgb(4, 4, 67);
+    --corBackgroundFooter: #1b1b1b;
     --corBackgroundDark: #2b2b2b;
     --corTextoPrimaria: 565656 ;
     --corTextoSecundario: black;
