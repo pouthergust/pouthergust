@@ -12,7 +12,7 @@ and this is my knowledge and curiosities about development
      knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
      motivation: [
          'Expand my knowledge and perspective',
-         'Make my projects more criatives'
+         'Make my projects more creatives'
      ],
  }
  ```
