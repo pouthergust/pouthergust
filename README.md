@@ -1,9 +1,35 @@
 # Hello World! I'm Gabriel 😄🖖
 and this is my knowledge and curiosities about development 
 
+<details>
+  <summary> More about me</summary>
+  <div>
+  
+ ``` js
+ const aboutMe = {
+     name: 'Gabriel Henrique',
+     title: 'Dev & Designer',
+     knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
+     motivation: [
+         'Expand my knowledge and perspective',
+         'Make my projects more criatives'
+     ],
+ }
+ ```
+ 
+  </div>
+</details>
+
+<details>
+  <summary> Main projects links </summary>
+  <div>
+  
  - [CLICK ME TO SEE THE DRAFT PROJECT](https://pouthergust.github.io/pouthergust/)
 
  - [CLICK ME TO SEE THE ALTERNATIVE PROJECT](https://pouthergust.github.io/HelloAlpine/)
+ 
+  </div>
+</details>
 
 [![Linkedin profile](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-5a562020a/)
 
