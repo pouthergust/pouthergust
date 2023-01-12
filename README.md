@@ -37,7 +37,7 @@ and this is my knowledge and curiosities about development
 
 I am a Graphic Designer who is eager to learn more about programming 
 
-![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true&)
+<!-- ![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true&) -->
 
 ## Main Technologies
 
