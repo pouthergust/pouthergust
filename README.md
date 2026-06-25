@@ -49,6 +49,6 @@ I am a Graphic Designer who is eager to learn more about programming
 
 IN PROGRESS... 🚧
 
-#nerverStopLearning🚀
+#NeverStopLearning🚀
 
 
