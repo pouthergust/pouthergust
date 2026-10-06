@@ -7,7 +7,7 @@ and this is my knowledge and curiosities about development
   
  ``` js
  const aboutMe = {
-     name: 'Gabriel Henrique',
+     name: 'Gabriel Henrique Vieira Nunes',
      title: 'Dev & Designer',
      knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
      motivation: [
@@ -39,7 +39,7 @@ I am a Graphic Designer who is eager to learn more about programming
 
 <!-- ![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=pouthergust&theme=omni&show_icons=true&) -->
 
-## Main Technologies
+## Most Used Technologies
 
 | Languages | Frameworks | more |
 | --------- |----------- | ---- |
