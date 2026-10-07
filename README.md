@@ -7,7 +7,7 @@ and this is my knowledge and curiosities about development
   
  ``` js
  const aboutMe = {
-     name: 'Gabriel Henrique Vieira Nunes',
+     name: 'Gabriel Henrique',
      title: 'Dev & Designer',
      knowledge: ['Web Development', 'UX/UI design', 'Graphic Design'],
      motivation: [
